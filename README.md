@@ -1,0 +1,2 @@
+# MINODES
+MINODES: MARCH-INSIDE for Network Nodes
