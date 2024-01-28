@@ -1,7 +1,7 @@
 # MINODES
 MINODES: MARCH-INSIDE for Network Nodes
 
-MINODES: MARCH-INSIDE for Networks Nodes is a software developed by H. González-Díaz (algorithm and software design, and author of papers, https://github.com/glezdiazh) and C.R. Muteanu (algorithm and software design, software programing, and author of papers, https://github.com/muntisa/). 
+MINODES: MARCH-INSIDE for Networks Nodes is a software developed by C.R. Muteanu (algorithm and software design, software programing, and author of papers, https://github.com/muntisa/), H. González-Díaz (algorithm and software design, and author of papers, https://github.com/glezdiazh), and A. Duardo-Sánches (assistance with intellectual proprty issues and co-author of papers for social and legal networks analysis, https://github.com/aliuskaduardo) 
 
 Algorithm origin:
 
