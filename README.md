@@ -13,9 +13,11 @@ MARCH-INSIDE (MI) algorithm is the original algorithm https://github.com/glezdia
 
 MINODES Main authors contributions:
 
+C.R. munteanu (algorithm and software design, software programing, AI/ML applications, main author of papers, https://github.com/muntisa/).
+
 H. Gónzalez-Díaz (algorithm and software design, AI/ML applications, main author of papers, https://github.com/glezdiazh),
 
-C.R. munteanu (algorithm and software design, software programing, AI/ML applications, main author of papers, https://github.com/muntisa/).
+A. Duardo-Sánches (assistance with intellectual proprty issues and co-author of papers for social and legal networks analysis, https://github.com/aliuskaduardo)
 
 Applications: 
 
@@ -24,9 +26,11 @@ MINODES, similarly to MI parameters, can be used to study the Markov Chain stoch
 
 See references:
 
-1: González-Díaz H, González-Díaz Y, Santana L, Ubeira FM, Uriarte E.
-Proteomics, networks and connectivity indices. Proteomics. 2008 Feb;8(4):750-78.
-doi: 10.1002/pmic.200700638. PMID: 18297652.
+1: Duardo-Sánchez A, Munteanu CR, Riera-Fernández P, López-Díaz A, Pazos A,
+González-Díaz H. Modeling complex metabolic reactions, ecological systems, and
+financial and legal networks with MIANN models based on Markov-Wiener node
+descriptors. J Chem Inf Model. 2014 Jan 27;54(1):16-29. doi: 10.1021/ci400280n.
+Epub 2013 Dec 23. PMID: 24320872. 
 
 2: González-Díaz H. Network topological indices, drug metabolism, and
 distribution. Curr Drug Metab. 2010 May;11(4):283-4. doi:
@@ -78,11 +82,9 @@ molecular graphs and complex networks to perturbations in synthetic reactions,
 micelle nanoparticles, and drug ADME processes. Curr Drug Metab.
 2014;15(4):470-88. doi: 10.2174/1389200215666140908101604. PMID: 25204825.
 
-11: Duardo-Sánchez A, Munteanu CR, Riera-Fernández P, López-Díaz A, Pazos A,
-González-Díaz H. Modeling complex metabolic reactions, ecological systems, and
-financial and legal networks with MIANN models based on Markov-Wiener node
-descriptors. J Chem Inf Model. 2014 Jan 27;54(1):16-29. doi: 10.1021/ci400280n.
-Epub 2013 Dec 23. PMID: 24320872.
+11: González-Díaz H, González-Díaz Y, Santana L, Ubeira FM, Uriarte E.
+Proteomics, networks and connectivity indices. Proteomics. 2008 Feb;8(4):750-78.
+doi: 10.1002/pmic.200700638. PMID: 18297652.
 
 12: González-Díaz H, Herrera-Ibatá DM, Duardo-Sánchez A, Munteanu CR, Orbegozo-
 Medina RA, Pazos A. ANN multiscale model of anti-HIV drugs activity vs AIDS
